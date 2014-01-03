@@ -1,4 +1,4 @@
-<div class="content">
+<div class="NavMenu">
 	<ul id="sdt_menu" class="sdt_menu">
 		<li>
 			<a href="#">
