@@ -15,13 +15,19 @@
 <body id="home">
 
     <div class="banner">
-            <h1>Neil and Beth's Wedding</h1>
-            <h2>June 28, 2014</h2>
-
+    
+    <!--Banner-->
+    <?php include 'include/banner.html';?>
 
     <!--Navigation Menu-->
     <?php include 'include/nav2.php';?>
     
+    </div>
+
+    <div class="content">
+
+        <?php include 'include/hometext.html';?>
+
     </div>
 
 </body>
