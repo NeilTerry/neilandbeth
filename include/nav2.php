@@ -1,7 +1,7 @@
 <div class="NavMenu">
 	<ul id="sdt_menu" class="sdt_menu">
 		<li>
-			<a href="#">
+			<a href="index.php">
 				<img src="img/Home_Menu.jpg" alt=""/>
 				<span class="sdt_active"></span>
 				<span class="sdt_wrap">
@@ -11,7 +11,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="AboutUs.php">
 				<img src="img/Menu.png" alt=""/>
 				<span class="sdt_active"></span>
 				<span class="sdt_wrap">
@@ -20,14 +20,14 @@
 				</span>
 			</a>
             <div class="sdt_box">
-					<a href="#">Beth</a>
-					<a href="#">Neil</a>
-                    <a href="#">Neil & Beth</a>
+					<a href="Beth.php">Beth</a>
+					<a href="Neil.php">Neil</a>
+                    <a href="NeilAndBeth.php">Neil & Beth</a>
 			</div>
 		</li>
 
         <li>
-			<a href="#">
+			<a href="Event.php">
 				<img src="img/Linville_Club_Menu.jpg" alt=""/>
 				<span class="sdt_active"></span>
 				<span class="sdt_wrap">
@@ -36,12 +36,12 @@
 				</span>
 			</a>
 			<div class="sdt_box">
-					<a href="#">The Venue</a>
-					<a href="#">The Weekend</a>
+					<a href="Venue.php">The Venue</a>
+					<a href="Weekend.php">The Weekend</a>
 			</div>
 		</li>
 		<li>
-			<a href="#">
+			<a href="Location.php">
                 <img src="img/Linville_Air_Menu.jpg" alt=""/>
 				<span class="sdt_active"></span>
 				<span class="sdt_wrap">
@@ -50,13 +50,13 @@
   				</span>
 			</a>
 <div class="sdt_box">
-					<a href="#">Travel</a>
-					<a href="#">Where to stay</a>
-                    <a href="#">What to do</a>
+					<a href="Travel.php">Travel</a>
+					<a href="Lodging.php">Where to stay</a>
+                    <a href="Activities.php">What to do</a>
 			</div>
 		</li>
 		<li>
-			<a href="#">
+			<a href="People.php">
 				<img src="img/Sisters_Menu.jpg" alt=""/>
 				<span class="sdt_active"></span>
 				<span class="sdt_wrap">
@@ -65,9 +65,9 @@
 				</span>
 			</a>
 	<div class="sdt_box">
-					<a href="#">Bridal Party</a>
-					<a href="#">The Groomsmen</a>
-                    <a href="#">Our Parents</a>
+					<a href="BridalParty.php">Bridal Party</a>
+					<a href="Groomsmen.php">The Groomsmen</a>
+                    <a href="Parents.php">Our Parents</a>
 			</div>
 		</li>	
 	</ul>
