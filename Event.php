@@ -26,7 +26,7 @@
 
     <div class="content">
 
-        <?php include 'include/hometext.html';?>
+        <?php include 'include/eventtext.html';?>
 
     </div>
 
