@@ -72,9 +72,10 @@ div.banner {
 
 div.nav {
     width:850px;
+    min-height:80px;
     margin-left:2%;
     margin-right:auto;
-    padding-bottom:15px;
+
 }
 
 div.content {
