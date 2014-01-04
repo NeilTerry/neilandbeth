@@ -1,3 +1,5 @@
+<div class="nav">
+
 <div class="NavMenu">
 	<ul id="sdt_menu" class="sdt_menu">
 		<li>
@@ -133,3 +135,5 @@ $('#sdt_menu > li').bind('mouseenter',function(){
 		});
 });
 </script>
+
+</div>

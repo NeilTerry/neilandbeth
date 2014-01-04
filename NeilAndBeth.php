@@ -14,7 +14,6 @@
 
 <body id="home">
 
-    <div class="banner">
     
     <!--Banner-->
     <?php include 'include/banner.html';?>
@@ -22,7 +21,6 @@
     <!--Navigation Menu-->
     <?php include 'include/nav2.php';?>
     
-    </div>
 
     <div class="content">
 
