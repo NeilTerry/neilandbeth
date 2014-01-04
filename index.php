@@ -9,6 +9,7 @@
     <![endif]-->
 
     <!-- Include Analytics tracking stuff -->
+    <?php include 'tracking.php';?>
 </head>
 
 
