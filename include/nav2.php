@@ -25,6 +25,7 @@
 					<a href="Beth.php">Beth</a>
 					<a href="Neil.php">Neil</a>
                     <a href="NeilAndBeth.php">Neil & Beth</a>
+                    <a href="Registry.php">Registry</a>
 			</div>
 		</li>
 
@@ -40,6 +41,7 @@
 			<div class="sdt_box">
 					<a href="Venue.php">The Venue</a>
 					<a href="Weekend.php">The Weekend</a>
+                    <a href="Friday.php">Friday Night</a>
 			</div>
 		</li>
 		<li>
@@ -69,8 +71,7 @@
 	<div class="sdt_box">
 					<a href="BridalParty.php">Bridal Party</a>
 					<a href="Groomsmen.php">The Groomsmen</a>
-                    <a href="Parents.php">Our Parents</a>
-			</div>
+      			</div>
 		</li>	
 	</ul>
 </div>
