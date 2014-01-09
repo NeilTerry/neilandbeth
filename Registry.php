@@ -25,7 +25,7 @@
 
     <div class="content">
 
-        <p>Under Construction...</p>
+    <?php include 'include/registrytext.html';?>
 
     </div>
 
