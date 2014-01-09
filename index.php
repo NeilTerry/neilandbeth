@@ -27,6 +27,8 @@
 
         <?php include 'include/hometext.html';?>
 
+        <?include 'include/twitterwidget.html';?>
+
     </div>
 
 </body>
