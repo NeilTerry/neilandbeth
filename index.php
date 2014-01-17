@@ -27,10 +27,14 @@
 
         <?php include 'include/hometext.html';?>
 
-        <?include 'include/twitterwidget.html';?>
+        <?php include 'include/twitterwidget.html';?>
 
     </div>
 
+    <div class="Footer">
+        <?php include 'include/footer.php';?>
+    </div>
+ 
 </body>
 
 </html>

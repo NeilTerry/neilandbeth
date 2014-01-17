@@ -27,6 +27,10 @@
 
     </div>
 
+    <div class="Footer">
+        <?php include 'include/footer.php';?>
+    </div>
+ 
 </body>
 
 </html>
