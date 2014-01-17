@@ -228,6 +228,7 @@ body {
 
     min-height:185px;
     margin-bottom:10px;
+   
 }
 
 .Left img{
@@ -252,6 +253,7 @@ body {
 .Right {
     min-height:185px;
     margin-bottom:10px;
+    
 }
 
 .Right img{
@@ -259,4 +261,20 @@ body {
     height:185px;
     border:solid 1px #000;
     margin-left:5px;
+}
+
+
+/*------------------------------------*\
+   FOOTER 
+\*------------------------------------*/
+
+.Footer {
+    width:850px;
+    border-top: 0.063em solid rgba(0, 0, 0, 0.2);
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.Footer div.twitterbutton {
+    float: right;
 }
