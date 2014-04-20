@@ -11,6 +11,9 @@
 					<span class="sdt_descr">Welcome</span>
 				</span>
 			</a>
+            <div class="sdt_box">
+                <a href="Registry.php">Registry</a>
+            </div>
 		</li>
 		<li>
 			<a href="AboutUs.php">
@@ -25,7 +28,6 @@
 					<a href="Beth.php">Beth</a>
 					<a href="Neil.php">Neil</a>
                     <a href="NeilAndBeth.php">Neil & Beth</a>
-                    <a href="Registry.php">Registry</a>
 			</div>
 		</li>
 
