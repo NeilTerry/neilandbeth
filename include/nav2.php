@@ -42,7 +42,6 @@
 			</a>
 			<div class="sdt_box">
 					<a href="Venue.php">The Venue</a>
-                    <a href="Map.php">Area Map</a>
 					<a href="Weekend.php">The Weekend</a>
                     <a href="Friday.php">Friday Night</a>
 			</div>
@@ -57,6 +56,7 @@
   				</span>
 			</a>
 <div class="sdt_box">
+                    <a href="Map.php">Area Map</a>
 					<a href="Travel.php">Travel</a>
 					<a href="Lodging.php">Where to stay</a>
                     <a href="Activities.php">What to do</a>
