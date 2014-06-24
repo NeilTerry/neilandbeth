@@ -263,6 +263,26 @@ body {
     margin-left:5px;
 }
 
+.Flier img{
+    width:800px;
+    margin-top:10px;
+    border:1px solid #000000;
+}
+
+/*------------------------------------*\
+   CALENDAR 
+\*------------------------------------*/
+.Event {
+    font-variant:small-caps;
+}
+
+.Event h2 {
+    text-align:center;
+}
+
+.Event p{
+    text-indent:30px;
+}
 
 /*------------------------------------*\
    FOOTER 

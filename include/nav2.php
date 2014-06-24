@@ -42,6 +42,7 @@
 			</a>
 			<div class="sdt_box">
 					<a href="Venue.php">The Venue</a>
+                    <a href="Map.php">Area Map</a>
 					<a href="Weekend.php">The Weekend</a>
                     <a href="Friday.php">Friday Night</a>
 			</div>
